@@ -1,0 +1,14 @@
+/Users/neotamoe/Documents/learn-xunit/obj/Debug/netcoreapp2.2/learn-xunit.csprojAssemblyReference.cache
+/Users/neotamoe/Documents/learn-xunit/obj/Debug/netcoreapp2.2/learn-xunit.csproj.CoreCompileInputs.cache
+/Users/neotamoe/Documents/learn-xunit/obj/Debug/netcoreapp2.2/learn-xunit.AssemblyInfoInputs.cache
+/Users/neotamoe/Documents/learn-xunit/obj/Debug/netcoreapp2.2/learn-xunit.AssemblyInfo.cs
+/Users/neotamoe/Documents/learn-xunit/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/neotamoe/Documents/learn-xunit/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/neotamoe/Documents/learn-xunit/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/neotamoe/Documents/learn-xunit/bin/Debug/netcoreapp2.2/learn-xunit.deps.json
+/Users/neotamoe/Documents/learn-xunit/bin/Debug/netcoreapp2.2/learn-xunit.runtimeconfig.json
+/Users/neotamoe/Documents/learn-xunit/bin/Debug/netcoreapp2.2/learn-xunit.runtimeconfig.dev.json
+/Users/neotamoe/Documents/learn-xunit/bin/Debug/netcoreapp2.2/learn-xunit.dll
+/Users/neotamoe/Documents/learn-xunit/bin/Debug/netcoreapp2.2/learn-xunit.pdb
+/Users/neotamoe/Documents/learn-xunit/obj/Debug/netcoreapp2.2/learn-xunit.dll
+/Users/neotamoe/Documents/learn-xunit/obj/Debug/netcoreapp2.2/learn-xunit.pdb

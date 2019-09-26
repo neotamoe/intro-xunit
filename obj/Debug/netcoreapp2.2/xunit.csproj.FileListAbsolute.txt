@@ -1,0 +1,11 @@
+/Users/neotamoe/Documents/xunit/bin/Debug/netcoreapp2.2/xunit.deps.json
+/Users/neotamoe/Documents/xunit/bin/Debug/netcoreapp2.2/xunit.runtimeconfig.json
+/Users/neotamoe/Documents/xunit/bin/Debug/netcoreapp2.2/xunit.runtimeconfig.dev.json
+/Users/neotamoe/Documents/xunit/bin/Debug/netcoreapp2.2/xunit.dll
+/Users/neotamoe/Documents/xunit/bin/Debug/netcoreapp2.2/xunit.pdb
+/Users/neotamoe/Documents/xunit/obj/Debug/netcoreapp2.2/xunit.csprojAssemblyReference.cache
+/Users/neotamoe/Documents/xunit/obj/Debug/netcoreapp2.2/xunit.csproj.CoreCompileInputs.cache
+/Users/neotamoe/Documents/xunit/obj/Debug/netcoreapp2.2/xunit.AssemblyInfoInputs.cache
+/Users/neotamoe/Documents/xunit/obj/Debug/netcoreapp2.2/xunit.AssemblyInfo.cs
+/Users/neotamoe/Documents/xunit/obj/Debug/netcoreapp2.2/xunit.dll
+/Users/neotamoe/Documents/xunit/obj/Debug/netcoreapp2.2/xunit.pdb
